@@ -1,0 +1,12 @@
+The bash script reposys.sh, version 1.0 performs some packages
+administration tasks and manages mini-repos for Debian based distros
+
+Usage instructions
+
+1- Uncompress reposys.tar on your home directory or any place
+2- Add execution permissions
+3- Follow the instructions
+
+See TODO file for details on new features projected...
+
+Thanks for using reposys 1.0

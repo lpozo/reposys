@@ -1,0 +1,9 @@
+* Option to burn a CD or DVD with a mini-repo ISO file (cdrecord)
+* Compress a mini-repo directory using different file compression formats
+* Several Packages installation option
+* Packages search options
+* Add mini-repo to sources.list function
+* Install e list of packages at the same time
+* Translate comments into English
+* Spell checking
+* Add more languages
